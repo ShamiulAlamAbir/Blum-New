@@ -20,6 +20,11 @@ from ..core.agents import generate_random_user_agent
 
 start_text = """
 
+ _____ __    _____ _____  BLUM AUTO TASK AND PLAY GAME BOT
+| __  |  |  |  |  |     | Author : Shamiul_Alam
+| __ -|  |__|  |  | | | | 
+|_____|_____|_____|_|_|_| 
+
 Select an action:
 
     1. Run clicker (Session)
